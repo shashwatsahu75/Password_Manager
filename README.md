@@ -163,7 +163,7 @@ B.Tech Computer Science and Engineering
 
 ## Acknowledgement
 
-This project was developed as part of a Python programming assignment to gain practical experience in authentication, encryption, and secure password management using Python.
+This project was developed as part of a Python programming project to gain practical experience in authentication, encryption, and secure password management using Python.
 
 ---
 
