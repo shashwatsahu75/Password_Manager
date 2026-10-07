@@ -27,6 +27,7 @@ This project was developed as part of a Python learning assignment to understand
 - Python 3
 - JSON
 - Cryptography (Fernet Encryption)
+- VS Cose
 
 ---
 
